@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CalculadoraMVC
+build_property.RootNamespace = CalculadoraMVC
+build_property.ProjectDir = C:\Users\luiz.queiroz\Desktop\SuzanSP3045111\CalculadoraMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\luiz.queiroz\Desktop\SuzanSP3045111\CalculadoraMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Calculadora/Resultado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcUmVzdWx0YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/Divisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXERpdmlzYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/Multiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXE11bHRpcGxpY2FjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/ResultadoDivisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXFJlc3VsdGFkb0RpdmlzYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/ResultadoMultiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXFJlc3VsdGFkb011bHRpcGxpY2FjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/ResultadoSoma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXFJlc3VsdGFkb1NvbWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/ResultadoSubtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXFJlc3VsdGFkb1N1YnRyYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/Soma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXFNvbWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Operacoes/Subtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzXFN1YnRyYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiz.queiroz/Desktop/SuzanSP3045111/CalculadoraMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fm8gg9yqrt
