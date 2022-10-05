@@ -1,19 +1,7 @@
 @{
-    ViewData["Title"] = "Soma";
+    ViewData["Title"] = "Resultado Subtracao";
 }
 
-<div>
-    <h3>Operação Matemática Somar</h3>
-    <p>Utilize o formulário abaixo para somar os dois números</p>
-
-    <form asp-controller="Operacoes" asp-action="ResultadoSoma" method="post">
-        <label for="n1">Número 1</label>
-        <input type="text" name="n1" id="n1">
-
-        <label for="n2">Número 2</label>
-        <input type="text" name="n2" id="n2">
-
-        <input type="submit" value="Somar">
-    </form>
-</div>
+<h1>Resultado Subtracao</h1>
+<p>O resultado de @ViewBag.N1 - @ViewBag.N2 é igual a @ViewBag.Resultado</p>
 Footer
