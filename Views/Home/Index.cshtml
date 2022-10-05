@@ -1,8 +1,32 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Calculadora";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h3>Calculadora</h3>
+<p>Utilize o formulário para realizar uma operação matemática</p>
+
+<form action="/Calculadora/Resultado" method="post">
+    <label for="num1">Número 1</label>
+    <input type="text" name="num1" id="num1">
+
+    <label for="num2">Número 2</label>
+    <input type="text" name="num2" id="num2">
+
+    <label>Operação</label>
+    <select name="operacao">
+        <option value="Soma">Somar</option>
+        <option value="Subtração">Subtrair</option>
+        <option value="Multiplicação">Multiplicar</option>
+        <option value="Divisão">Dividir</option>
+    </select>
+    <br>
+    <button>Calcular</button>
+
+</form>
+
+<style>
+    input,select{
+        display: flex;
+        width: 15em;
+    }
+</style>
